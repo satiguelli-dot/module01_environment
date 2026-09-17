@@ -5,3 +5,7 @@ v01. создан и оформлен readme с 6 разделами. задан
 v02. созданы папки и файлы version_log, notebooks, data, docs, summary. загружены sample_text.txt и mini_corpus.tsv.
 
 v03. проверено отсутствие персональных данных.
+
+v04. peer review: после pr поменяла расположение version_log.md в папку docs и удалила лишний файл.
+
+v05. переименовала notebook в lr01_runtime_order_дегтярева.ipynb.
