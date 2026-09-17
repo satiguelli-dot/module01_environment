@@ -6,6 +6,8 @@ v02. созданы папки и файлы version_log, notebooks, data, docs,
 
 v03. проверено отсутствие персональных данных.
 
-v04. peer review: после pr поменяла расположение version_log.md в папку docs и удалила лишний файл.
+v04. peer review: всё хорошо, но поменяла расположение version_log.md в папку docs и удалила лишний файл.
 
 v05. переименовала notebook в lr01_runtime_order_дегтярева.ipynb.
+
+v06. дополнила summary
